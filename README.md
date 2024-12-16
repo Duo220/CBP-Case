@@ -1,0 +1,1 @@
+This project shows how we construct the business planning and forecasting in the next two years. Based on calculations and "What-if" analysis, we efficiently decided production capacity in advance and avoided incurring excessive labor costs or accumulating inventory.
